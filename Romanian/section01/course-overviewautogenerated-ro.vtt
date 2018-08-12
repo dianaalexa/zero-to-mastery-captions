@@ -4,67 +4,67 @@ WEBVTT
 Să vorbim despre cum va arăta acest curs pentru tine.
 
 00:05.720 --> 00:11.640
-Acum, acest curs are peste o sută de videoclipuri HD care sunt organizate într-un mod de a vă menține angajat.
+Acum, acest curs are peste o sută de videoclipuri HD care sunt organizate într-un mod de a vă capta interesul.
 
 00:11.830 --> 00:18.100
-Și fiecare secțiune are un fel de pași acțiuni pe care sunteți în măsură să urmați, cum ar fi construirea de site-uri web
+Și fiecare secțiune are un fel de pași acțiuni pe care ii puteți urma, cum ar fi construirea de site-uri web
 
 00:18.170 --> 00:26.810
 și exemple de proiecte și tot ceea ce folosim în acest curs este un instrument pe care companiile îl folosesc în viața reală.
 
 00:26.860 --> 00:32.590
-Nu vom folosi nimic care este doar pentru a învăța sau a juca în jur.
+Nu vom folosi nimic din ce nu poate fi aplicat in viața reala.
 
 00:32.710 --> 00:36.200
 Acestea sunt instrumente reale și tehnologii reale pe care le vom folosi.
 
 00:36.220 --> 00:37.720
-Sunt cei mai buni dintre cei mai buni.
+Sunt cele mai bune dintre cele mai bune.
 
 00:37.810 --> 00:39.600
-Deci, să ne uităm la schița cursului.
+Deci, să ne uităm la structura cursului.
 
 00:41.710 --> 00:48.820
 Prima parte va fi o introducere a unor concepte de bază pentru a ne familiariza cu web-ul și despre cum
 
 00:48.820 --> 00:49.870
-lucrări.
+acesta funcționează. 
 
 00:50.050 --> 00:55.250
-Vom începe cu modul în care funcționează Internetul care este istoria acestor tehnologii.
+Vom începe cu modul în care funcționează Internetul și care este istoria acestor tehnologii.
 
 00:55.330 --> 01:01.030
-Și de fapt, voi înțelegeți conceptele de bază ale Internetului și modul în care tehnologiile
+Veți înțelege conceptele de bază ale Internetului și modul în care tehnologiile de azi
 
 01:01.060 --> 01:04.840
-acum am ajuns să fim acolo unde sunt.
+au ajuns să fie acolo unde sunt.
 
 01:05.830 --> 01:12.440
-Vom vorbi despre istoricul web al browserelor web și apoi vom învăța HTML5
+Vom vorbi despre istoricul web și cel al browserelor web și apoi vom învăța HTML5
 
 01:12.600 --> 01:19.890
-În sfârșit, construirea primului nostru site web se va realiza și în unele HTML avansate pe care le vom construi
+În sfârșit, construirea primului nostru site web se va realiza și prin unele metode HTML avansate în care vom construi
 
 01:19.890 --> 01:24.820
-unele forme complexe și te fac foarte bine la această tehnologie.
+formulare mai complexe ce te vor ajuta sa înțelegi mai bine această tehnologie.
 
 01:24.840 --> 01:32.340
-Vom muta apoi în CSS, ceea ce ne permite să ne stilizăm site-urile și să le facem frumoase.
+Vom continua apoi cu CSS, ceea ce ne permite să ne stilizăm site-urile și să le facem mai frumoase.
 
 01:32.700 --> 01:39.840
 Apoi vom intra în CSS avansat și folosind funcții CSS 3 cum ar fi tranzițiile și gradientele
 
 01:40.500 --> 01:46.560
-în secțiunea avansată CSS vom crea un proiect generator de fundal care va fi foarte mult
+în secțiunea avansată CSS vom crea un proiect generator de fundal care va fi foarte
 
 01:46.560 --> 01:47.240
-distracţie.
+interesant.
 
 01:47.520 --> 01:55.570
 Odată ce am învățat cum să lucrăm cu site-urile web folosind HTML și CSS, vom începe să învățăm despre Bootstrap 4
 
 01:55.600 --> 02:02.650
-șabloane și construirea propriei pagini de destinație de pornire care acceptă e-mailuri și va stoca efectiv
+șabloane și construirea propriei pagini de de pornire care acceptă e-mailuri și stochează efectiv
 
 02:02.800 --> 02:07.160
 e-mailurile utilizatorilor ca persoane interesate de lansarea dvs.
@@ -73,22 +73,22 @@ e-mailurile utilizatorilor ca persoane interesate de lansarea dvs.
 O abilitate foarte utilă pe care o vei avea cu siguranță în cariera ta.
 
 02:10.570 --> 02:15.850
-Sau dacă aveți o idee de afaceri pe care doriți să o urmăriți și să vă arătați cum fac niște liber profesioniști
+Sau dacă aveți o idee de afaceri pe care doriți să o urmăriți, vă voi arăta cum fac niște liber profesioniști
 
 02:15.850 --> 02:21.310
-o viață care lucrează la distanță utilizând doar aceste instrumente și cum le puteți folosi și ele.
+munca de la distanță utilizând doar aceste instrumente și cum le puteți folosi și dvs.
 
 02:22.390 --> 02:26.570
-În cele din urmă terminăm Partea 1 cu cariera unui dezvoltator.
+În cele din urmă terminăm Partea 1 vorbind despre cariera unui Developer.
 
 02:26.860 --> 02:30.390
-Ce implică de fapt cariera unui dezvoltator.
+Ce implică de fapt cariera unui Developer.
 
 02:30.820 --> 02:36.940
-Care sunt salariile care sunt diferențele dintre un dezvoltator de software, un dezvoltator mobil, un software
+Care sunt salariile, care sunt diferențele dintre un Software Developer, Mobile Developer, un software
 
 02:36.940 --> 02:39.700
-inginer, dezvoltator de stive complete.
+inginer și un Fullstack Developer. 
 
 02:39.790 --> 02:44.260
 Vom acoperi toate acestea și vom vorbi, de asemenea, despre tendințele viitoare și despre ce abilități
@@ -97,10 +97,10 @@ Vom acoperi toate acestea și vom vorbi, de asemenea, despre tendințele viitoar
 aveți nevoie în viitor.
 
 02:46.210 --> 02:53.110
-Din partea 1 ne mutăm la următoarea secțiune, aici vom începe să introducem javascript și să învățăm de bază
+Din partea 1 ne mutăm la următoarea secțiune, aici vom începe să introducem javascript și să învățăm concepte
 
 02:53.110 --> 02:59.380
-concepte care ne permit să învățăm un limbaj de programare real și cel mai popular limbaj de programare
+de bază care ne permit să învățăm un limbaj de programare real și anume cel mai popular limbaj de programare
 
 02:59.410 --> 03:01.270
 care este javascript.
@@ -115,61 +115,61 @@ pe site-ul nostru, astfel încât acestea să fie interactive.
 Și apoi, în sfârșit, vom învăța câteva concepte avansate de javascript pentru a putea folosi javascript
 
 03:17.320 --> 03:19.990
-pentru a controla mașinile din jurul nostru.
+pentru a controla mașinăriile din jurul nostru.
 
 03:20.630 --> 03:27.410
-Acum, doar cunoașterea codului HTML, CSS și Javascript nu este suficient de bun și nu veți putea să crească în dvs.
+Doar cunoscând HTML, CSS și Javascript nu este suficient pentru a avansa în rolul dvs. 
 
 03:27.410 --> 03:31.900
-rol și comandă un salariu mai mare doar cu aceste trei abilități.
+și pentru a cere un salariu mai mare doar cu aceste trei abilități.
 
 03:31.940 --> 03:37.160
-O să vă învăț aceste lucruri, pentru că acestea sunt lucrurile pe care trebuie să le cunoașteți
+O să vă învăț aceste lucruri, pentru că acestea sunt lucrurile pe care trebuie să le cunoașteți în
 
 03:37.160 --> 03:41.720
-2018, astfel încât să vă aflați la un kilometru înaintea restului.
+2018, astfel încât să vă aflați cu un pas înaintea celorlalți.
 
 03:41.780 --> 03:46.640
-Deci, după secțiunea Javascript vom începe să intrăm în linia de comandă și să lucrăm cu ei
+Deci, după secțiunea Javascript, vom vorbi despre linia de comandă și cum lucrăm cu
 
 03:46.640 --> 03:47.580
 terminalul.
 
 03:47.660 --> 03:52.700
-Apoi, învățăm despre mediile dezvoltatorilor și vă voi arăta de fapt ce este mediul meu pentru dezvoltatori
+Apoi, învățăm despre mediile programatorilor și vă voi arăta de fapt care este mediul meu pentru programare
 
 03:52.730 --> 03:59.580
-pe calculatorul meu arata ca atunci cand lucrez. Vom instala propriile computere cu toate instrumentele necesare
+și cum arată pe calculatorul meu atunci când lucrez. Vom instala propriile computere cu toate instrumentele necesare
 
 04:00.000 --> 04:01.380
-a unui dezvoltator de viață reală.
+ale unui programator în viața reală.
 
 04:01.590 --> 04:08.580
-Deci, puteți folosi aceleași setări atunci când mergeți și lucrați pentru cineva sau pentru voi înșivă știind că mediul în care vă aflați
+Deci, puteți folosi aceleași setări atunci când mergeți și lucrați pentru cineva sau pentru voi înșivă știind că mediul este 
 
 04:08.970 --> 04:10.370
-este înființată profesional.
+unul profesional.
 
 04:11.380 --> 04:13.890
-Vom afla apoi despre Git și Github,
+Vom afla mai apoi despre Git și Github,
 
 04:13.900 --> 04:20.410
-probabil cele mai importante instrumente ale dezvoltatorului și vă voi arăta cum echipele lucrează cu aceste tehnologii
+probabil cele mai importante instrumente ale programatorului și vă voi arăta cum echipele lucrează cu aceste tehnologii
 
 04:20.740 --> 04:27.840
-pentru a crea software colaborativ. Apoi intrăm într-o secțiune distractivă care este o zi în viața unui dezvoltator
+pentru a crea software colaborativ. Apoi intrăm într-o secțiune distractivă care este o zi în viața unui programator
 
 04:28.730 --> 04:37.890
-și vă voi arăta ce o zi pe zi între orele 9:00 și 17:00 cum arată și ce instrumente veți folosi
+și vă voi arăta cum arată o zi de lucru și ce instrumente veți folosi
 
 04:37.890 --> 04:44.010
-te duc printr-o zi de probă la o companie de tehnologie, doar ca în prima zi la serviciu să nu o faci
+te duc printr-o zi de probă la o companie tech, doar ca în prima ta zi la serviciu să nu
 
 04:44.010 --> 04:44.850
-a fi surprins.
+fii surprins.
 
 04:45.180 --> 04:52.380
-Apoi, vom trece la scripturile NPM și NPM, astfel încât dezvoltatorii să-și împărtășească fragmentele de cod și Javascript
+Apoi, vom trece la scripturile NPM, ce permit programatorilor să-și împărtășească fragmentele de cod Javascript
 
 04:53.040 --> 04:56.110
 și va deschide o întreagă lume de posibilități.
@@ -178,88 +178,88 @@ Apoi, vom trece la scripturile NPM și NPM, astfel încât dezvoltatorii să-și
 În cele din urmă terminăm Partea 2 cu React.js
 
 05:01.230 --> 05:09.480
-veți învăța biblioteca pe care companiile precum Netflix, Facebook și Instagram le utilizează pentru a construi rapid, scalabil
+veți învăța biblioteca pe care companiile precum Netflix, Facebook și Instagram o utilizează pentru a construi în mod rapid și 
 
 05:09.540 --> 05:11.580
-aplicații.
+scalabil aplicații.
 
 05:11.580 --> 05:14.820
-Aceasta este una dintre cele mai înalte cerințe de cerere din industrie.
+Aceasta este una dintre cele mai înalte cerințe din industrie.
 
 05:14.970 --> 05:19.040
-Este atat de distractiv si sunt foarte incantat de acea sectiune.
+Este atat de interesant si sunt foarte incantat de acea sectiune.
 
 05:19.790 --> 05:28.580
-Din partea a doua vom trece la o scurtă și frumoasă, care ne va prezenta lumii în afara doar
+Mai apoi vom trece la o scurtă dar frumoasă parte, care ne va prezenta lumea în afara
 
 05:28.580 --> 05:34.760
-Front End, care construiește site-uri fără a comunica cu alte site-uri sau cu alte site-uri
+Front End, care doar construiește site-uri fără a comunica cu alte site-uri sau
 
 05:34.760 --> 05:36.400
-lume sau servere.
+servere.
 
 05:37.230 --> 05:44.890
-Vom afla despre HTTP, JSON și AJAX ceva care va deschide o lume a posibilităților.
+Vom afla despre HTTP, JSON și AJAX.
 
 05:44.970 --> 05:49.110
-Vom afla despre elementele de bază din Back End și despre ceea ce fac dezvoltatorii Back End.
+Vom afla despre elementele de bază din Back End și despre ceea ce fac programatorii Back End.
 
 05:49.350 --> 05:51.830
 Și apoi, în cele din urmă vă voi prezenta unele API-uri,
 
 05:52.170 --> 05:56.980
-ce API-uri sunt și cu siguranță unele API-uri interesante care sunt acolo.
+cum funcționează ele si vă voi arăta cateva exemple de API. 
 
 05:57.000 --> 06:03.600
-Această secțiune este într-adevăr pentru a deschide lumea ta de a fi doar un dezvoltator Front End care este într-adevăr
+Această secțiune este pentru a deschide posibilitatea de a fi nu doar un programator Front End care este într-adevăr
 
 06:03.600 --> 06:09.600
-bun la construirea site-urilor web pentru cineva care poate crea aplicații dinamice și ne va stabili
+bun la construirea site-urilor web ci cineva care poate crea aplicații dinamice și ne va stabili
 
 06:09.600 --> 06:16.040
 pentru partea a 4-a. Aici devine foarte distractiv.
 
 06:16.070 --> 06:21.650
-Vom începe să lucrăm la proiectul nostru final numit SmartBrain și vom începe să începem
+Vom începe să lucrăm la proiectul nostru final numit SmartBrain și vom începe să lucram
 
 06:21.650 --> 06:28.250
-care lucrează la capătul din față care utilizează Javascript HTML și React CSS.
+la partea de Frontend care utilizează Javascript, HTML, CSS și React.
 
 06:28.520 --> 06:33.910
-Vom construi o aplicație de recunoaștere a imaginii care va fi foarte plăcută.
+Vom construi o aplicație de recunoaștere a imaginii care va fi foarte interesanta.
 
 06:33.920 --> 06:41.330
-Introduceți o adresă URL și folosiți un API de învățare automată pe care o vom detecta pentru a vedea dacă în fotografia respectivă
+Introducand o adresă URL și folosind un API de învățare automată, vom putea detecta dacă în fotografia respectivă
 
 06:41.450 --> 06:46.450
-există o față și apoi detectați unde este fața cu cutia pătratică.
+există o față și apoi vom localiza pozitia fetei in chenar.
 
 06:46.630 --> 06:52.460
-Vom crea un semn, un formular de înregistrare și va fi cu adevărat impresionant
+Vom crea un formular de înregistrare și va fi cu adevărat impresionant!
 
 06:52.550 --> 06:58.780
-ceva pe care veți putea să-l utilizați în portofoliul dvs. și impresionați angajatorii sau clienții viitori.
+ceva ce veți putea să utilizați în portofoliul dvs. ca să impresionați angajatorii sau clienții viitori.
 
 07:00.180 --> 07:05.650
 Apoi, luăm o pauză de la proiectul SmartBrain pentru a vă prezenta Node.js și Express.
 
 07:05.970 --> 07:12.540
-Aici vă arăt cum să construiți un server, cum să creați un API odihnitor, astfel încât atunci când intrăm
+Aici vă arăt cum să construiți un server, cum să creați un API RESTful, astfel încât atunci când intrăm
 
 07:12.540 --> 07:18.720
-în secțiunea următoare, secțiunea server SmartBrain, construim serverul propriu, astfel încât să fim de fapt capabili
+în secțiunea următoare, secțiunea server SmartBrain, sa puteti construi propriul server, astfel încât să fiti de fapt capabili
 
 07:18.720 --> 07:27.990
-să comunicați cu serverul prin HTTP și să vă conectați la aplicația noastră, să vă deconectați, să aveți profiluri și să faceți totul
+să comunicati cu serverul prin HTTP și să va conectati la aplicație, să vă deconectați, să aveți profiluri și să faceți tot
 
 07:27.990 --> 07:29.760
-feluri de lucruri foarte interesante.
+felul de lucruri foarte interesante.
 
 07:30.490 --> 07:36.220
-De acolo vom face din nou o pauză și vom afla despre bazele de date, un subiect foarte complex, dar voi face
+De acolo vom face din nou o pauză și vom afla despre baze de date, un subiect foarte complex, dar va voi face
 
 07:36.220 --> 07:41.380
-este simplu să înțelegeți cum funcționează și în secțiunea următoare pe care o vom crea
+să înțelegeți cum funcționează și în secțiunea următoare pe care o vom crea
 
 07:41.380 --> 07:49.570
 propria noastră bază de date folosind Postgres și conectați-o la serverul nostru, astfel încât la final veți avea o experiență deplină
